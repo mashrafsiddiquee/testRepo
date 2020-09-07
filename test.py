@@ -1,4 +1,4 @@
-import numpy, os, obspy
+import numpy, os, obspy, scipy
 
 def test()       :
 	print('test')
